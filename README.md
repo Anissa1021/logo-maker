@@ -27,7 +27,7 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 ## Walkthrough
-https://app.screencastify.com/v3/watch/2nV2dfE9KJ8LBIEq0vZ3
+https://drive.google.com/file/d/1ATv45xv8BvSI5GCVumWYqxaByQyTinUt/view
 
 ## Technology used
 - `Node.js`
